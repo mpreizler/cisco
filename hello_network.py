@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Simple hello world (network) script.
+"""Simple hello world (network) script Mariano.
 
 Script Dependencies:
     none
